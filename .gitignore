@@ -1,0 +1,43 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.log
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# DotCover
+*.dotCover
+
+# Test results
+TestResults/
+*.trx
+# WebView2 cache
+packages/Microsoft.Web.WebView2*/**
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Others
+*.vspscc
+*.vssscc
+.vs/
